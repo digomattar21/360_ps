@@ -1,0 +1,10 @@
+data/
+__pycache__/
+*.py[cod]
+venv/
+*.venv/
+ENV/
+.env
+.DS_Store
+.idea/
+*.swp
